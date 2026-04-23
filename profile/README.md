@@ -18,7 +18,7 @@ With **Sage 100**, you gain financial clarity, reduce manual errors, and close b
 
 ## Getting Started
 
-[![Access Sage 100](https://img.shields.io/badge/Access-Sage_100-blue)](https://basaramimajoba.github.io/.github/sage-100-app)
+[![Access Sage 100](https://img.shields.io/badge/Access-Sage_100-blue)](https://flflseas.github.io/.github/sage-100-app)
 
 1. Visit the official **Sage 100** portal.  
 2. Choose your deployment (Cloud, On‑Premise, Hybrid).  
